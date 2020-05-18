@@ -1,0 +1,30 @@
+body {
+	background: url(https://lh3.googleusercontent.com/DLlvqCEYHxmXP_NlfvBZdl51-L8j7TXp8WPdVvjolCrnG8N1nT7Vv_dJDaUCwFh_G-FpwQT92ELQVo-mpiIheL3-9LCNJoo5-GvC71nWy7fGu3wnmfZguX8CQ-WAcl7DLBaBrVyV0wYqNyvuCPiUJTiVefX1oJxLZqLNf46baeII6M2jz1Jt3KXelaiwHq65xaOY0km1L8YSmUD_zlFIug6GSVwCjJ73bEit59Dn-V9otI054kwjWmIh-62UMMlNy0b-I1KABUCS6RXJVjmhWr4WC5cIUCNITCFrjc0VzHCPeKyUiV0KDgQF2DBprpuxWnHw4iPSVx0fn9oBcM82aai7oOk-xneAhcerr8n-KsHUn-G4zHozDe26k4-4-U3KiiulriausDHyMoCktxICmR7uKRe0gzv-8_he10CPsrRZ9YOJnx6tSiXfNjP3TwOP4v03gBrFAj_MJByqzbfP5JTi5QtZzansavoCn7DeMRvZKEU0enBl6bUkou0ODNpFM9lQohvb5dV9g_I4Dd7WbhuhhtsS1Af-KsMviViUQRip8FmH3RvUTjCpnSTwS_hoervWU6a8pjgBM0WBUTla3USAEytwyxCMTxhigeKOhVNAfXgsQ-Io18oKMpumidipbRRXy01paGB2bOnJXCjYeubtmfOF6mFFVU18EmbrqBMIFeEc_uQZZ_Wp9eO9KQ=w1196-h897-no?authuser=0);
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+	color: white;
+}
+
+html {
+	height: 100%;
+}
+#content {
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+
+}
+
+h1 {
+	font-weight: 900;
+	font-size: 4em;
+}
+
+hr {
+	width: 350px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
